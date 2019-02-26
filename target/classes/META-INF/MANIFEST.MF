@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: mac
+Class-Path: lib/thumbnailator-0.4.8.jar
+Build-Jdk: 1.8.0_192
+Created-By: Maven Integration for Eclipse
+Main-Class: photoUtils.photo
+
